@@ -1,0 +1,8 @@
+streamlit
+requests
+joblib
+pandas
+scikit-learn
+spacy
+spacy-transformers
+vaderSentiment
